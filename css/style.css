@@ -1,0 +1,37 @@
+
+
+section {
+    margin: 50px 0;
+    padding: 20px 20px !important;
+}
+
+.wrapper {
+    padding: 0 30px;
+}
+
+.container {
+    max-width: 800px;
+    margin-top: 30px;
+}
+
+.container-lg {
+    max-width: 1000px;
+}
+
+.carousel-caption {
+    color: white;
+    background-color: rgb(200, 200, 200);
+    opacity: 0.6;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: rgb(200, 200, 200);
+}
+
+/* .carousel-indicators > button {
+    background-color: rgb(188, 187, 246) !important;
+} */
+
+.portfolio {
+    width: 200px;
+}
