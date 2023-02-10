@@ -31,3 +31,13 @@ main, section {
 .portfolio {
     width: 200px;
 }
+
+.portfolio-container {
+    flex-wrap: wrap;
+}
+
+@media (min-width: 641px) {
+    .portfolio-container {
+        flex-wrap: nowrap;
+    }
+}
